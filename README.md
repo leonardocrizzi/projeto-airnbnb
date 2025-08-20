@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏡 Projeto Airnbnb
 
-## Getting Started
+> Esse projeto foi desenvolvido como forma de estudar TypeScript, TailwindCSS, React e NextJs através do curso `Web Frontend Completo: HTML, CSS, JS, TS, React e Next 2025` da Udemy, com os ensinamentos do professor **Jamilton Damasceno**. Trata-se de um clone da antiga versão do site `Airbnb`, e, neste projeto, consegui desenvolver algumas habilidades, nas quais são essenciais para o dia a dia de um desenvolvedor Front-End. 
 
-First, run the development server:
+### ⚙️ Linguagens e Tecnologias do projeto:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- TypeScript
+- TailwindCss
+- React
+- Next.Js
+
+### 🧩 Como utilizar:
+
+- Baixe o projeto em `Code > Donwload ZIP`
+- Descompacte o arquivo zip e abra a pasta do projeto no vscode
+- Você precisará primeiro baixar as dependências para executar o projeto, então para isso, execute o seguinte comando:
 ```
+npm install
+```  
+- Após isso, execute o comando para inicializar o projeto:
+```
+npm run dev
+```
+- Escolha entre a opção Local e Network, as duas funcionam da mesma forma
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Pronto! Agora você pode ver como ficou o resultado do projeto.
